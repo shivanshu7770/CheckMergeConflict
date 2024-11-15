@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-<b>hello my name is merge conflict by b2 </b>
+<b>hello my name is shiv hello everybody b2 </b>
 </body>
 </html>
